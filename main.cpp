@@ -11,7 +11,6 @@ What you create in this project will be used as the basis of Project 5 in the co
 
 ************************
 Part1 purpose:  Learn to write UDTs
-
 You are going to write 10 UDTs in project3.  
 Part1 will be broken up into 5 separate steps, all on the same branch
     Part 1a: you will learn to think about an object in terms of its sub-objects.
@@ -36,51 +35,51 @@ Sub Object 1: Steering Wheel
     Name 4 things you'll find on the:    Steering Wheel
         1) paddle shifters
         2) 'cruise control' controls
-        3) 
-        4) 
+        3) car horn
+        4) wheel cover
     Name 2 things you can do with the:   Steering Wheel
         1) adjust cruise control settings.
-        2)
+        2) honk the horn
         
 Sub Object 2: Instrument Cluster
     Name 4 things you'll find on the:   Instrument Cluster
-        1)
-        2)
-        3)
-        4)
+        1) odometer
+        2) speedometer
+        3) fuel gauge
+        4) outside temperature gauge
     Name 3 things you can do with the:   Instrument Cluster
-        1)
-        2)
-        3)
+        1) check the fuel level
+        2) gauge the car speed
+        3) read the mileage
     
 Sub Object 3: Environment Controls
     Name 3 things you'll find on the:    Environment Controls
-        1)
-        2)
-        3)
+        1) AC button
+        2) temperature knob
+        3) recurculation button
     Name 3 things you can do with the:   Environment Controls
-        1)
-        2)
-        3)
+        1) dial in the temperature knob
+        2) change the fan speed
+        3) adjust air vent cover
 
 Sub Object 4: Infotainment System
     Name 3 things you'll find on the:    Infotainment System
-        1)
-        2)
-        3)
+        1) bluetooth settings
+        2) LCD screen
+        3) volume knob
     Name 3 things you can do with the:   Infotainment System
-        1)
-        2)
-        3)
+        1) control bluetooth connections
+        2) change the volume level
+        3) choose the EQ preset
 
 Sub Object 5: Seat 
     Name 3 things you'll find on the:    Seat
-        1)
-        2)
-        3)
+        1) seatbelt
+        2) seat cover
+        3) head rest
     Name 2 things you can do with the:   Seat
-        1)
-        2)
+        1) adjust head rest height
+        2) put on the seatbelt
 */
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
