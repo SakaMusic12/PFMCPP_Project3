@@ -54,59 +54,59 @@ Thing: Car Wash
  */
 
 /*
-Thing 1)
+Thing 1) dictionary
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) amount of ink used
+    2) number of pages
+    3) edition of book
+    4) date of publication
+    5) weight of book
 3 things it can do:
-    1)
-    2)
-    3)
+    1) store word definitions
+    2) weight another object down
+    3) provide synonyms for a word
  */
 
 /*
-Thing 2)
+Thing 2) Airplane
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of seats
+    2) number of crewmembers
+    3) length in miles to destination
+    4) amount of fuel consumed per flight
+    5) number of passengers per trip
 3 things it can do:
-    1)
-    2)
-    3)
+    1) transport passengers
+    2) feed passengers
+    3) fly at high altitudes
  */
 
 /*
-Thing 3)
+Thing 3) production company
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) amount of money fundraised
+    2) amout of money spent on advertising per year
+    3) number of employees
+    4) amount of revenue per year
+    5) number of cameras
 3 things it can do:
-    1)
-    2)
-    3)
+    1) produce movies every year
+    2) employ technical artists
+    3) partner with entertainment company
  */
 
 /*
-Thing 4)
+Thing 4) drumset
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of cymbals
+    2) age of kit in years
+    3) number of pieces
+    4) snare drum diameter
+    5) ride cymbal stand height
 3 things it can do:
-    1)
-    2)
-    3)
+    1) break a drumhead 
+    2) play music loudly (db)
+    3) adjust the stool height
  */
 
 
