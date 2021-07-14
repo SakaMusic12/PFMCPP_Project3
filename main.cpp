@@ -55,18 +55,7 @@ Part1 will be broken up into 5 separate steps
 */
 
 /*
-Thing 10)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
- */
+
 
 
 
@@ -127,7 +116,89 @@ Thing 4) drumset
     3) adjust the stool height
  */
 
+/*
+Thing 5) oscillator
+5 properties:
+    1) frequency control (hz)
+    2) waveform bank
+    3) pulse-width control
+    4) FM input
+    5) amplitude level
+3 things it can do:
+    1) produce an audible tone
+    2) modulate another parameter at audio rates
+    3) change timbre
+ */
 
+/*
+Thing 6) filter
+5 properties:
+    1) cutoff frequency (hz)
+    2) slope (db)
+    3) filter bank
+    4) resonance amount
+    5) drive amount
+3 things it can do:
+    1) subtract harmonics from an oscillator
+    2) self-oscillate
+    3) modulate the cutoff frequency
+ */
+
+/*
+Thing 7) envelope
+5 properties:
+    1) attack time (ms)
+    2) hold time (ms)
+    3) decay time (ms)
+    4) sustain level (midi)
+    5) release time (ms)
+3 things it can do:
+    1) shape the amplitude of an oscillator
+    2) modulate other parameters with positive values
+    3) play in one-shot mode, or cycle
+ */
+
+/*
+Thing 8) LFO
+5 properties:
+    1) frequency control (hz)
+    2) waveform bank
+    3) phase shifter
+    4) sync to tempo button
+    5) offset control
+3 things it can do:
+    1) modulate other synth parameters with positive and negative values
+    2) oscillate at audio rates
+    3) 
+ */
+
+/*
+Thing 9) Sequencer
+5 properties:
+    1) number of tracks
+    2) number of steps
+    3) tempo control (bpm)
+    4) glide control (ms)
+    5) quantizer control (midi)
+3 things it can do:
+    1) pattern melodic sequences
+    2) arpeggiate chords
+    3) pattern drum beats
+ */
+
+/*
+Thing 10) Synthesizer
+5 properties:
+    1) Oscillator
+    2) Filter
+    3) Envelope
+    4) Low Frequency Oscillator
+    5) Sequencer
+3 things it can do:
+    1) synthesize sounds
+    2) create music
+    3) 
+ */
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
