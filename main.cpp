@@ -159,17 +159,17 @@ Thing 7) envelope
  */
 
 /*
-Thing 8) LFO
+Thing 8) compressor
 5 properties:
-    1) frequency control (hz)
-    2) waveform bank
-    3) phase shifter
-    4) sync to tempo button
-    5) offset control
+    1) threshold level (db)
+    2) ratio of compression
+    3) attack time (ms)
+    4) release time (ms)
+    5) output gain (db)
 3 things it can do:
-    1) modulate other synth parameters with positive and negative values
-    2) oscillate at audio rates
-    3) 
+    1) can sidechain compress audio
+    2) can lower the dynamic level of the mix
+    3) can distort audio
  */
 
 /*
@@ -192,12 +192,12 @@ Thing 10) Synthesizer
     1) Oscillator
     2) Filter
     3) Envelope
-    4) Low Frequency Oscillator
+    4) Compressor
     5) Sequencer
 3 things it can do:
     1) synthesize sounds
     2) create music
-    3) 
+    3) make people dance
  */
 
 /*
